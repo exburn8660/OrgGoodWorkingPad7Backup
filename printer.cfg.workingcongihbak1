@@ -35,26 +35,6 @@ gcode:
   TURN_OFF_HEATERS
   CANCEL_PRINT_BASE
 
-
-
-[announcements]
-subscriptions:
-  fluidd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Driver0
 [stepper_x]
 step_pin: PF13
